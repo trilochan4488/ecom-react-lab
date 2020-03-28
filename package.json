@@ -22,6 +22,7 @@
     "react-scripts": "3.4.1",
     "react-styleguidist": "^11.0.4",
     "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
     "source-map-explorer": "^2.4.1"
   },
   "scripts": {
